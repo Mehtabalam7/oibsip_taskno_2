@@ -243,7 +243,6 @@ form{
 
 .query{
     display: flex;
-    /* align-items: center; */
     flex-direction: column ;
     margin-left: 150px;
     gap: 5px;
